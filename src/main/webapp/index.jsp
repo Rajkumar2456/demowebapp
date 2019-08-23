@@ -14,6 +14,7 @@
       <h2 class="text-center">Welcome to all leaders arrow ..... rajkumar....., captain.. on behalf of Infinito Solutions</h2>
       
 <center><img src="http://www.infinitotek.com/wp-content/uploads/2018/02/dev-ops-header-1.jpg" width=50% hight=50%>
- </center> </div>
+ <center><img src="https://www.pexels.com/photo/nature-red-love-romantic-67636/"   width=50%  hight=50%>
+   </center> </div>
 </body>
 </html>
